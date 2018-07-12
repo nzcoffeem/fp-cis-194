@@ -383,7 +383,7 @@ pattern-matching or *guards* instead (see the next section).
 Defining basic functions
 ------------------------
 
-We can write functions on integers by cases.
+haWe can write functions on integers by cases.
 
 > -- Compute the sum of the integers from 1 to n.
 > sumtorial :: Integer -> Integer
